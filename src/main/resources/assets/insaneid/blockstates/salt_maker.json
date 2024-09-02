@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "insaneid:block/salt_maker", "y": 180},        
+        "facing=east":  { "model": "insaneid:block/salt_maker", "y":  270},
+        "facing=south": { "model": "insaneid:block/salt_maker"},
+        "facing=west":  { "model": "insaneid:block/salt_maker", "y": 90}
+    }
+}

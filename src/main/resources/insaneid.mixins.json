@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.insane.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"InsaneMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

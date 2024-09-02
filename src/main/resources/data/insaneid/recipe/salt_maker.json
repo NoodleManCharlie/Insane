@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "DFD",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:quartz_block"
+        },
+        "S": {
+            "item": "minecraft:stone"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "F": {
+            "item": "minecraft:furnace"
+        },
+        "G": {
+            "item": "minecraft:gunpowder"
+        }
+    },
+    "result": {
+        "id": "insaneid:salt_maker"
+    }
+}
